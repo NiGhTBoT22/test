@@ -13,6 +13,8 @@ body{
    background-color: #f3f5f9;
 }
 
+i{display: inline-block; margin-right: 1em}
+
 .wrapper{
   display: flex;
   position: relative;
