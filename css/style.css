@@ -98,10 +98,22 @@ body{
   border-bottom: 0.5px solid rgb(77, 128, 179);;
 }
 
+.wrapper .main_content .img{
+  margin-left: 20px;
+  margin-top: 20px;
+
+}
+
 .wrapper .main_content .info{
   margin: 20px;
   color: #717171;
-  line-height: 25px;
+  line-height: 50px;
+  margin-left: 230px;
+  margin-top: -180px;
+}
+
+.wrapper .main_content .info:hover h2{
+  color: #249fe0;
 }
 
 .wrapper .main_content .info div{
