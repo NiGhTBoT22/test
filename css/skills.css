@@ -1,5 +1,5 @@
 .prog_bar {
-    top: 30%;
+    top: 50%;
     left:50%;
     position: absolute;
     text-align: center;
@@ -32,7 +32,7 @@
 		}
 
 .ui-widgets .ui-values {
-    top: 40px;
+    top: 50px;
     position: absolute;
     left: 10px;
     right: 0;
@@ -43,10 +43,16 @@
 
 .ui-widgets .ui-labels {
     left: 0;
-    bottom: -16px;
+    bottom: -18px;
     text-shadow: 0 0 4px grey;
     color:black;
     position: absolute;
     width: 100%;
     font-size: 16px;
 }
+
+.updates{
+    margin-top: 20px;
+    margin-left: 220px;
+  }
+
